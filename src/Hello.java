@@ -1,8 +1,8 @@
 public class Hello {
     public static void main(String[] args) {
-        ola();
+        hola();
     }
-    public static void ola() {
-        System.out.println("ola mundo");
+    public static void hola() {
+        System.out.println("Hola que tal");
     }
 }
